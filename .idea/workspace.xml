@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="222b89c4-0b57-443c-a47d-51429d9d81d6" name="Default Changelist" comment="" />
+    <list default="true" id="222b89c4-0b57-443c-a47d-51429d9d81d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -106,7 +108,7 @@
       <workItem from="1610197912854" duration="2407000" />
       <workItem from="1610201457924" duration="56000" />
       <workItem from="1610201535352" duration="342000" />
-      <workItem from="1610240618953" duration="8755000" />
+      <workItem from="1610240618953" duration="9524000" />
     </task>
     <task id="LOCAL-00001" summary="冒泡排序">
       <created>1610244180313</created>
@@ -122,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610244631291</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="封装、继承">
+      <created>1610267077620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610267077620</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +140,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="冒泡排序" />
     <MESSAGE value="1月9号笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="1月9号笔记" />
+    <MESSAGE value="封装、继承" />
+    <option name="LAST_COMMIT_MESSAGE" value="封装、继承" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="88" key="#Project_Structure" timestamp="1610197945187">
@@ -146,14 +156,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1610266663025" />
-    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1610267034731">
+    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1610267076547">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610267034731" />
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1610240763126">
+    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610267076547" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1610267857770">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1610240763126" />
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1610267857770" />
     <state x="621" y="342" width="382" height="175" key="Github.CreateGistDialog" timestamp="1610243622107">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -166,22 +176,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="670" y="134" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1610244049271" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1610266897015">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1610267093218">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610266897015" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1610266897015">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1610267093218" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1610267093218">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610266897015" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1610266897015">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1610267093218" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1610267093218">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610266897015" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1610266897015">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1610267093218" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1610267093218">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610266897015" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1610267093218" />
     <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1610201247709">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -190,6 +200,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="8" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610261063706" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1610267716083">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610267716083" />
     <state x="480" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1610240618344">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
